@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+hello, Im just a regular human who likes to code.
+- 🔭 I’m currently working on a website that will house my projects.
+- 🌱 I’m currently learning html, css and javascript.
+- 📫 How to reach me: 
+  mail: warmagedon007@gmail.com
+- I currently have experience in:
+- 3D modeling, through blender.
+- Coding on c#, c++, c, x86 assembly through masm and python.
